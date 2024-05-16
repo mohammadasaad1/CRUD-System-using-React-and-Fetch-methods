@@ -9,3 +9,10 @@ Currently, two official plugins are available:
 # CRUD-System-using-React-and-Fetch-methods
 "# CRUD-System-using-React-and-Fetch-methods" 
 "# CRUD-System-using-React-and-Fetch-methods" 
+- CRUD> 
+cd db-api 
+ then enter this comand after openning the terminal >> powershell -ExecutionPolicy Bypass -Command "json-server --watch db.json --port 9000"
+open another terminal >> type 
+  npm install 
+  npm run dev . 
+  
