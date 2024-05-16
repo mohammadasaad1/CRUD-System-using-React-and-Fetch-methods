@@ -1,0 +1,7 @@
+td {
+  width: calc((100% / 4) - 10px);
+  vertical-align: middle !important;
+}
+tr {
+  margin: 2px;
+}

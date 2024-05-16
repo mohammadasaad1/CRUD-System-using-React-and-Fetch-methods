@@ -1,0 +1,3 @@
+run this command >> 
+ powershell -ExecutionPolicy Bypass -Command "json-server --watch db.json" , 
+ json-server --watch db.json

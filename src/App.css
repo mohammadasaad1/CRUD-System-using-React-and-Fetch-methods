@@ -1,0 +1,19 @@
+.sideBar {
+  background-color: #f8f9fa;
+  max-height: calc(100vh - 59px);
+  max-height: calc(100vh - 59px);
+  border-right: 2px solid #dee2e6;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.row {
+  --bs-gutter-x: 0rem !important;
+  text-align: center;
+}
+.main {
+  height: calc(100vh - 59px);
+  max-height: calc(100vh - 59px);
+  overflow: auto;
+}
